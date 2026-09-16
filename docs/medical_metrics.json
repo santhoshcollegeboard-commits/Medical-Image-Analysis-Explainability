@@ -1,0 +1,16 @@
+{
+    "benchmark_dataset": "pneumoniamnist",
+    "total_test_samples": 624,
+    "accuracy": 0.8718,
+    "sensitivity_recall": 0.9795,
+    "specificity": 0.6923,
+    "precision": 0.8414,
+    "f1_score": 0.9052,
+    "roc_auc": 0.9511,
+    "confusion_matrix": {
+        "true_negatives": 162,
+        "false_positives": 72,
+        "false_negatives": 8,
+        "true_positives": 382
+    }
+}
